@@ -144,3 +144,26 @@ header
 .header .hamburger-btn span:after{
     top:6px;
 }
+/*--navigation-menu--*/
+.nav-menu{
+    position: fixed;
+    background-color: var(--bg-black-50);
+    padding: 0 15px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+}
+.nav-menu .close-nav-menu{
+
+}
+
+.nav-menu-inner{
+    /*background-color: blue;
+    min-height: 100 vh;*/
+}
+.nav-menu ul{
+    /*background-color: violet;*/
+
+}
